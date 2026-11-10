@@ -29,6 +29,7 @@ A long-term, real-world renovation of a small existing wooden shed into a shared
 
 ## Project docs
 - [Renovation roadmap](ROADMAP.md)
+- [Code and permit research (Indiana / Evansville-Vanderburgh)](RULES.md)
 - [Electrical planning](ELECTRICAL.md)
 - [Bug-proofing plan](BUG_PROOFING.md)
 - [Design decisions](DECISIONS.md)
